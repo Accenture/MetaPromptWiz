@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "meta-prompt-wiz"
+version = "0.0.5"
+description = ""
+authors = ["hananel <hananel.hadad@accenture.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pydantic = "^2.7.4"
+numpy = "^1.26.4"
+bayesian-optimization = "^1.5.1"
+scikit-learn = "^1.5.0"
+tqdm = "^4.66.5"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

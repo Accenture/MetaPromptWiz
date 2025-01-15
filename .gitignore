@@ -1,0 +1,16 @@
+__pycache__
+*.pyc
+.cadence
+.venv
+.DS_Store
+venv/
+/.vscode
+.vscode
+.idea
+**/__pycache__
+**/*.py[cod]
+dist/
+
+# local env files
+.env
+config_wiz_logs.json
