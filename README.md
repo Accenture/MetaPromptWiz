@@ -1,6 +1,6 @@
 # MetaPromptWiz
 MetaPromptWiz is a package that aims to explore configurations for LLM Applications. 
-It takes a program and uses a different search strategies to find promising configuration.
+It takes a program and uses a different search strategies to find a promising configuration.
 
 ## Table of Contents
 
